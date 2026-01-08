@@ -1,0 +1,3 @@
+Istanbul,15462452
+Ankara,5639076
+Izmir,4320519
